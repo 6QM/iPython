@@ -1,2 +1,2 @@
 # iPython
-Some stuff about learning python
+Some stuff I recorded about learning python
